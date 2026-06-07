@@ -27,6 +27,8 @@ GO
 CREATE DATABASE DataWarehouse;
 GO
 
+ USE DataWarehouse;
+GO
 -- Creating schemas
 CREATE SCHEMA bronze;
 GO
